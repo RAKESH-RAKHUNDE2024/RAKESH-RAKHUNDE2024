@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm RAKESH RAKHUNDE</h1>
 <h3 align="center">"Passionate Data Engineer Seizing Opportunities To Innovate And Optimize In 2024 "</h3>
 
-<img align="right" alt="coding" width="400" src="="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F03%2Fa-quick-overview-of-data-engineering%2F&psig=AOvVaw2AM3KVs_hwWBNjy3ztmAKQ&ust=1721402242667000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjynKbxsIcDFQAAAAAdAAAAABAE">
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-rakhunde2024&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-rakhunde2024" /> </p>
 
 - 🌱 I’m Currently Pursuing An **Advanced Certification in Data Science and Artificial Intelligence (AI) From Intellipaat In Collaboration With IIT Madras.**
