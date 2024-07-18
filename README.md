@@ -1,4 +1,4 @@
-
+![logo](https://github.com/RAKESH-RAKHUNDE2024/RAKESH-RAKHUNDE2024/blob/main/1689446879665.jpg)
 <h1 align="center">Hi 👋, I'm RAKESH RAKHUNDE</h1>
 <h3 align="center">"Passionate Data Engineer Seizing Opportunities To Innovate And Optimize In 2024 "</h3>
 
