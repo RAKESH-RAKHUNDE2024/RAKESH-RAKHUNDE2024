@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm RAKESH RAKHUNDE</h1>
 <h3 align="center">"Passionate Data Engineer Seizing Opportunities To Innovate And Optimize In 2024 "</h3>
 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-rakhunde2024&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-rakhunde2024" /> </p>
+<img align="top" alt="coding" width="400" src="https://github.com/RAKESH-RAKHUNDE2024/RAKESH-RAKHUNDE2024/blob/main/Data%20Engineering%20Role%202.gif"> 
 
 - 🌱 I’m Currently Pursuing An **Advanced Certification in Data Science and Artificial Intelligence (AI) From Intellipaat In Collaboration With IIT Madras.**
 
