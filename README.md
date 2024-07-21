@@ -6,8 +6,6 @@
 
 - 🌱 I’m Currently Pursuing An **Advanced Certification in Data Science and Artificial Intelligence (AI) From Intellipaat In Collaboration With IIT Madras.**
 
-- 📫 How To Reach Me **rakesh.rakhunde2021@gmail.com**
-
 - 📄 Know About My Experiences:- Dynamic And Detail-Oriented Professional With Over 6 Years Of Experience As A Senior Credit Operations Officer At A Leading NBFC. Proven Track Record In Managing Credit Operations, Risk Assessment, And Financial Analysis. Recently Transitioned Into The IT Sector With A Strong Focus On Data Engineering And Artificial Intelligence. Equipped With Robust Skills In SQL, Python, Pandas, NumPy And MS Excel. Adept At Leveraging Analytical And Problem-solving Abilities To Drive Data-driven Decision-Making And Optimize Data Processes. Eager To Apply My Diverse Skill Set And Experience To Contribute To Innovative Data Engineering Projects And Support Organizational Growth.
 
 - ⚡ Describe About Me In Single Word **Technophile**
