@@ -1,12 +1,17 @@
 ![logo](https://github.com/RAKESH-RAKHUNDE2024/RAKESH-RAKHUNDE2024/blob/main/1689446879665.jpg)
 <h1 align="center">Hi 👋, I'm RAKESH RAKHUNDE</h1>
-<h3 align="center">"Passionate Data Engineer Seizing Opportunities To Innovate And Optimize In 2025 "</h3>
+<h3 align="center">"Passionate Data Engineer Seizing Opportunities To Innovate And Optimize In 2025 - 2026 "</h3>
 
 <img align="top" alt="coding" width="400" src="https://github.com/RAKESH-RAKHUNDE2024/RAKESH-RAKHUNDE2024/blob/main/Data%20Engineering%20Role%202.gif"> 
 
-- 🌱 I’m Currently Pursuing An **Advanced Certification in Data Science and Artificial Intelligence (AI) From Intellipaat In Collaboration With IIT Madras.**
+**- I’m Actively Seeking New Opportunities In Data Analytics And Data Engineering, Particularly Within The Financial, Banking, And Fintech Domains.**
 
-- 📄 Know About My Experiences:- Dynamic And Detail-Oriented Professional With Over 7+ Years Of Experience As A Senior Credit Operations Officer At A Leading NBFC. Proven Track Record In Managing Credit Operations, Risk Assessment, And Financial Analysis. Recently Transitioned Into The IT Sector With A Strong Focus On Data Engineering And Artificial Intelligence. Equipped With Robust Skills In SQL, Python, Pandas, NumPy And MS Excel. Adept At Leveraging Analytical And Problem-solving Abilities To Drive Data-driven Decision-Making And Optimize Data Processes. Eager To Apply My Diverse Skill Set And Experience To Contribute To Innovative Data Engineering Projects And Support Organizational Growth.
+- 📄 Know About My Experiences:- Data Professional With 6.5+ Years Of Experience Across NBFC, Fintech, And IT Sectors, Supporting Credit Risk Functions And End To End Data Initiatives. Skilled In Credit Risk Assessment, CAM Preparation, Underwriting, KYC Review, And Managing Loan, PDD, And CMS Processes.
+
+-    Technically Proficient In Python, MySQL, Power BI, Machine Learning, Deep Learning, AI Concepts, Advanced Excel, And MS Office. Experienced In ETL, Data Cleaning, Validation, Exploratory Data Analysis (EDA), KPIs Tracking, MIS Reporting, And Building Dashboards That Enable Actionable Insights.
+
+-    Committed To Applying My Financial Domain Knowledge And Technical Expertise To Data Science And Data Engineering Projects That Drive Measurable Business Growth.
+
 
 - ⚡ Describe About Me In Single Word **Technophile**
 
