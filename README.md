@@ -19,7 +19,7 @@ Data Analyst | SQL | Python | Power BI | ML Models & AI Tools | Advanced MS Offi
 </div>
 
 ---
-## ⚡ One Word That Defines Me: Technophile
+### ⚡ One Word That Defines Me: ***Technophile***
 
 - I’m Actively Seeking New Opportunities In Data Analytics And Data Engineering, Particularly Within The Financial, Banking, And Fintech Domains.
 
