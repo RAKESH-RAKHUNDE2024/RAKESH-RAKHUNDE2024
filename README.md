@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/RAKESH-RAKHUNDE2024/RAKESH-RAKHUNDE2024/blob/main/1689446879665.jpg"
-       alt="Rakesh Rakhunde" width="1000"/>
+       alt="Rakesh Rakhunde" width="950"/>
 </div>
 
 <br/>
@@ -71,20 +71,11 @@ Known For The Ability To Bridge Business And Technology, Translate Complex Requi
 
 ## 📊 GitHub Profile Analytics
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=RAKESH-RAKHUNDE2024&show_icons=true&layout=compact" />
-</p>
+### 📈 Contribution Trend
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAKESH-RAKHUNDE2024&theme=github)
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=RAKESH-RAKHUNDE2024&show_icons=true" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=RAKESH-RAKHUNDE2024" />
-</p>
+### 🗓️ Contribution Heatmap
+![Contribution Heatmap](https://ghchart.rshah.org/RAKESH-RAKHUNDE2024)
 
 ---
 
