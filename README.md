@@ -19,7 +19,7 @@ Data Analyst | SQL | Python | Power BI | ML Models & AI Tools | Advanced MS Offi
 </div>
 
 ---
-⚡ **One Word That Defines Me:** Technophile
+## ⚡ One Word That Defines Me: Technophile
 
 - I’m Actively Seeking New Opportunities In Data Analytics And Data Engineering, Particularly Within The Financial, Banking, And Fintech Domains.
 
@@ -27,17 +27,18 @@ Data Analyst | SQL | Python | Power BI | ML Models & AI Tools | Advanced MS Offi
 
 ## 🚀 Enthusiast
 
-I Am A Results Driven Data And Analytics Enthusiast With A Strong Foundation In Banking And Financial Services, Passionate About Applying Data Analytics, Machine Learning, And AI To Solve Real World Business And Risk Problems. I Enjoy Working At The Intersection Of Finance, Technology, And Analytics.
+- I Am A Results Driven Data And Analytics Enthusiast With A Strong Foundation In Banking And Financial Services, Passionate About Applying Data Analytics, Machine Learning, And AI To Solve Real World Business And Risk Problems.
+- I Enjoy Working At The Intersection Of Finance, Technology, And Analytics.
 
 ---
 
 ## 👨‍💼 Professional Summary
 
-Results Driven Professional With **8+ Years Of Experience In Banking And Financial Services**, Including Leadership Roles In **Credit Operations And Risk Management** Across Leading Banking, NBFCs, Fintech, And IT Organizations. Strong Expertise In Credit Risk Analytics & Credit Appraisal, Underwriting, Risk Assessment, CRM Management, End To End Loan Operations, And Cash Handling, With A Consistent Focus On Operational Excellence And Regulatory Compliance.
+- Results Driven Professional With **8+ Years Of Experience In Banking And Financial Services**, Including Leadership Roles In **Credit Operations And Risk Management** Across Leading Banking, NBFCs, Fintech, And IT Organizations. Strong Expertise In Credit Risk Analytics & Credit Appraisal, Underwriting, Risk Assessment, CRM Management, End To End Loan Operations, And Cash Handling, With A Consistent Focus On Operational Excellence And Regulatory Compliance.
 
-Currently Working In The It And Analytics Domain, Applying Deep Banking Domain Knowledge To Data Driven Problem Solving. Technically Proficient In **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Advanced Excel**, And Modern **AI Tools** For Automation And Analytics. Experienced In **EDA, ETL Processes, Visualization, And Analytical Reporting**.
+- Currently Working In The It And Analytics Domain, Applying Deep Banking Domain Knowledge To Data Driven Problem Solving. Technically Proficient In **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Advanced Excel**, And Modern **AI Tools** For Automation And Analytics. Experienced In **EDA, ETL Processes, Visualization, And Analytical Reporting**.
 
-Known For The Ability To Bridge Business And Technology, Translate Complex Requirements Into Actionable Insights, And Deliver Scalable Data Solutions. Strong Background In Team Leadership, Process Optimization, KPI Reporting, And Dashboard Development.
+- Known For The Ability To Bridge Business And Technology, Translate Complex Requirements Into Actionable Insights, And Deliver Scalable Data Solutions. Strong Background In Team Leadership, Process Optimization, KPI Reporting, And Dashboard Development.
 
 ---
 
